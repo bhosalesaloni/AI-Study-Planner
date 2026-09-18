@@ -1,0 +1,28 @@
+/* AI Study Plan Results */
+
+.ai-results {
+  margin-top: 25px;
+  width: 100%;
+}
+
+.ai-results h3 {
+  margin: 0 0 15px;
+  font-size: 20px;
+}
+
+.ai-suggestion {
+  padding: 15px;
+  margin-bottom: 12px;
+  border-radius: 10px;
+  background: #f5f7ff;
+  border: 1px solid #e0e4ff;
+  color: #1f2937;
+}
+
+.ai-suggestion p {
+  margin: 7px 0;
+}
+
+.ai-suggestion strong {
+  font-weight: 600;
+}
